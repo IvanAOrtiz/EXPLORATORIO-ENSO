@@ -8,3 +8,4 @@ mapper
 encaje de takens
 persistencia
 determinar si son periodicas
+https://www.overleaf.com/1627457742vzjrmbkpthtv#c0288e
